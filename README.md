@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning https://github.com/luckyframework/lucky/
+- 💬 Ask me about ROR
+- ⚡ Fun fact:  It’s still possible to visit the world’s first [webpage](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- 📫 Lets connect https://www.linkedin.com/in/grsahil20
+- 💻 I might restart writting some day @ http://www.codesapling.com/
+
+
 <!--
 **grsahil20/grsahil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

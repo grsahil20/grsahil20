@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning https://github.com/luckyframework/lucky/
-- 💬 Ask me about ROR
+- I am Sahil Grover
+- 🌱 I’m currently learning [Lucky](https://github.com/luckyframework/lucky/) and [SQL](https://gorails.com/series/sql-for-beginners)
+- 💬 Ask me about [Ruby On Rails](https://rubyonrails.org/)
 - ⚡ Fun fact:  It’s still possible to visit the world’s first [webpage](http://info.cern.ch/hypertext/WWW/TheProject.html)
 - 📫 Lets connect https://www.linkedin.com/in/grsahil20
 - 💻 I might restart writting some day @ http://www.codesapling.com/
+- 📍 Living in Berlin
 
 
 <!--
